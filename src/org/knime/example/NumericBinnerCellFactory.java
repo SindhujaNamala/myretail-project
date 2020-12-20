@@ -11,7 +11,7 @@
  * any way exploit any of the content, in whole or in part, except as
  * otherwise expressly permitted in writing by the copyright owner or
  * as specified in the license file distributed with this product.
- *
+ *commented here
  * If you have any questions please contact the copyright holder:
  * website: www.knime.com
  * email: contact@knime.com

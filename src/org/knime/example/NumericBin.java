@@ -32,9 +32,9 @@ import org.knime.core.node.ModelContentWO;
 /**
  * A small model representing a bin with the rows contained in that bin and 
  * a graphical representation as a rectangle.
- * 
+ * /commented here
  * @author KNIME.com AG, Zurich, Switzerland
- */
+ */ 
 public class NumericBin {
     
     private static final String CFG_KEY_CELLS = "rowIds";
